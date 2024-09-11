@@ -1,0 +1,33 @@
+﻿  AppDelegate.cpp
+  HelloWorldScene.cpp
+  main.cpp
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\base\CCConsole.h(71,13): error C2491: cocos2d::log: определение dllimport функция не разрешено
+  (компиляция исходного файла "main.cpp")
+  
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\base\CCConsole.h(71,13): error C2491: cocos2d::log: определение dllimport функция не разрешено
+  (компиляция исходного файла "../Classes/AppDelegate.cpp")
+  
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\base\CCConsole.h(71,13): error C2491: cocos2d::log: определение dllimport функция не разрешено
+  (компиляция исходного файла "../Classes/HelloWorldScene.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\base\ccUTF8.h(68,20): error C2491: cocos2d::StringUtils::format: определение dllimport функция не разрешено
+  (компиляция исходного файла "main.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\base\ccUTF8.h(68,20): error C2491: cocos2d::StringUtils::format: определение dllimport функция не разрешено
+  (компиляция исходного файла "../Classes/HelloWorldScene.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\base\ccUTF8.h(68,20): error C2491: cocos2d::StringUtils::format: определение dllimport функция не разрешено
+  (компиляция исходного файла "../Classes/AppDelegate.cpp")
+  
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\deprecated\CCDeprecated.h(1051,37): error C2491: cocos2d::CCLog: определение dllimport функция не разрешено
+  (компиляция исходного файла "main.cpp")
+  
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\deprecated\CCDeprecated.h(1051,37): error C2491: cocos2d::CCLog: определение dllimport функция не разрешено
+  (компиляция исходного файла "../Classes/HelloWorldScene.cpp")
+  
+E:\Документы\работа с visual studio\MyGame\cocos2d\cocos\deprecated\CCDeprecated.h(1051,37): error C2491: cocos2d::CCLog: определение dllimport функция не разрешено
+  (компиляция исходного файла "../Classes/AppDelegate.cpp")
+  
